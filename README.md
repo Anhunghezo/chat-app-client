@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone repo: https://github.com/nguyenphuonglinh2k/instagram-clone-server to run chat app server.
 
 ## Available Scripts
 
