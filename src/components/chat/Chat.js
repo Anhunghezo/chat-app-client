@@ -79,7 +79,7 @@ function Chat() {
                         </DropdownToggle>
                         <DropdownMenu right className="mt-2">
                             <DropdownItem>Profile</DropdownItem>
-                            <DropdownItem onCLick={onClickLogOut}>Log out</DropdownItem>
+                            <DropdownItem onClick={onClickLogOut}>Log out</DropdownItem>
                         </DropdownMenu>
                     </Dropdown>
                 </div>
