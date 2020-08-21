@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Clone repo: https://github.com/nguyenphuonglinh2k/chat-app-server to run chat app server.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+Clone repo: https://github.com/nguyenphuonglinh2k/chat-app-server to run chat app server.<br>
+Test directly: https://hq02m.csb.app/
 
 ## Available Scripts
 
